@@ -1,4 +1,4 @@
-// Record<Keys, Type> - Usado para mapear propriedades de um tipo para outro tipo
+// Record<Key Type, Value Type> - Usado para mapear propriedades de um tipo para outro tipo
 
 type ButtonVariant = "primary" | "danger" | "disable";
 
